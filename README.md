@@ -1,19 +1,17 @@
-# Beautiful Jekyll
+# Nicholas Badcock
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/daattali/20)
-[![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
+## About me
 
-> *Copyright 2019 [Dean Attali](https://deanattali.com)*
+I am a developmental cognitive neuropsychologist interested in how perceptual and attentional capacities underpin complex functioning such as how cognitive control relates to reading abilities. My research focuses on learning difficulties and exceptional development with the aim of contributing to scientific understanding as well as translation for education and intervention.
+Through understanding everyday behaviours like reading, I investigate the basic workings of the mind. I conduct these enquiries using behavioural psychophysics and neuroimaging techniques (e.g., electroencephalography, [functional transcranial Doppler ultrasound](https://www.jove.com/video/2161/assessment-cerebral-lateralization-children-using-functional), and functional magnetic resonance imaging).
 
-**Beautiful Jekyll** is a ready-to-use template to help you create an awesome website quickly. Perfect for personal sites, blogs, or simple project websites.  [Check out a demo](https://deanattali.com/beautiful-jekyll) of what you'll get after just two minutes.  You can also look at [my personal website](https://deanattali.com) to see it in use, or see examples of websites other people created using this theme [here](#showcased-users-success-stories).
+### My history
 
-**If you enjoy this theme, please consider [supporting me](https://www.paypal.me/daattali/20) for developing and maintaining this template.**
+I completed my undergraduate and postgraduate studies at the **University of Western Australia**, working with Mike Anderson (Honours, 2002: The Attentional Blink and Children: Development of Selective Attention and Automatic Processing), and John Hogben and Jan Fletcher (combined Masters/PhD in Applied Developmental Psychology, 2008: Applying the Attentional Blink). After lecturing at **Curtin University**, I took up a postdoc fellowship with Dorothy Bishop in Oxford Study of Children’s Communication Impairments (OSCCI) at **Oxford University**. In Oxford my work predominantly examined language lateralisation in adults and toddlers using functional Transcanial Doppler Ultrasound (click the doi for the Bishop et al., 2010 periodical below for a short video of the method). I returned to Australia in 2011 to take up a postdoctoral research fellowship in the ARC Centre of Excellence in Cognition and its Disorders at **Macquarie University**, predominantly working with Genevieve McArthur investigating the relationship between cognitive control and reading. We’ve also validating a  gaming-EEG system (see Emotiv's EPOC) for research and, with Nik Williams, are currently exploring neural indices of academic success.
 
-<p align="center">
-  <a href="https://www.paypal.me/daattali">
-    <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" />
-  </a>
-</p>
+In 2020 I'll be starting at [The University of Western Australia](https://www.uwa.edu.au/) as a lecturer within [The School of Psychological Science](https://www.uwa.edu.au/study/courses/psychological-science)
+
+# I'm learning how to use this at the moment...
 
 ### Table of contents
 
