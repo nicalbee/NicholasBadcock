@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nicholas Badcock
-subtitle: Attention - Perception - Development - Neuroscience
+subtitle: Attention - Perception - Cognitive Development - Neuroscience
 use-site-title: true
 ---
 
