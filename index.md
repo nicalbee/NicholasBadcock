@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nicholas Badcock
-subtitle: Developmental Cognitive Neuropsychologist
+subtitle: Attention - Perception - Development - Neuroscience
 use-site-title: true
 ---
 
