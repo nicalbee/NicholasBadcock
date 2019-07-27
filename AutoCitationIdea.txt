@@ -1,0 +1,8 @@
+Markdown/html file (index.md or maybe publication/index.md) has link to javascript file js/getCitations.
+Javascript file searches through 'papers' folder, pulls the metatdata from each pdf, 
+and creates a reference for each paper in markdown/html,
+and adds this created markdown/html to publication.html.
+Created html will have class references in each tag so that formatting can be controlled 
+by an external CSS file
+Publication.html file includes a reference to external css/styles.css file
+styles.css includes definition of css classes, eg. class="reference-title" with the appropriate formatting
