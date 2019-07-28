@@ -5,7 +5,7 @@ subtitle: Electronic versions are provided as a professional courtesy to ensure 
 use-site-title: true
 ---
 ## 2018
-1.	McArthur G, Sheehan Y, Badcock NA, Francis DA, Wang H, Kohnen S, Banales E, Anandakumar T, Marinus E, Castles A. Phonics training for English-speaking poor readers. Cochrane Database of Systematic Reviews 2018, Issue 11. Art. No.: CD009115. [DOI:10.1002/14651858.CD009115.pub3](10.1002/14651858.CD009115.pub3)
+1.	McArthur G, Sheehan Y, Badcock NA, Francis DA, Wang H, Kohnen S, Banales E, Anandakumar T, Marinus E, Castles A. Phonics training for English-speaking poor readers. Cochrane Database of Systematic Reviews 2018, Issue 11. Art. No.: CD009115. [DOI:10.1002/14651858.CD009115.pub3](https://10.1002/14651858.CD009115.pub3)
 
 2.	Fiveash A, Thompson WF, Badcock NA, & McArthur G (2018). Syntactic processing in music and language: Effects of interrupting auditory streams with alternating timbres. International Journal of Psychophysiology, 129, 31-40. DOI:10.1016/j.ijpsycho.2018.05.003
 
