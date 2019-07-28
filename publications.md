@@ -5,7 +5,7 @@ subtitle: Electronic versions are provided as a professional courtesy to ensure 
 use-site-title: true
 ---
 ## 2019
-Boyes, M. E., Leitão, S., Claessen, M., Badcock, N. A., & Nayton, M. (in press). Correlates of externalising and internalising problems in children with dyslexia: An analysis of data from clinical casefiles. Australian Psychologist, 0(0). https://doi.org/10.1111/ap.12409 [PDF](/pubs/Boyes et al. - Correlates of externalising and internalising prob.pdf)
+Boyes ME, Leitão S, Claessen M, Badcock NA, & Nayton M. (in press). Correlates of externalising and internalising problems in children with dyslexia: An analysis of data from clinical casefiles. Australian Psychologist. https://doi.org/10.1111/ap.12409 [PDF](/pubs/Boyes et al. - Correlates of externalising and internalising prob.pdf)
 
 
 ## 2018
@@ -13,18 +13,18 @@ McArthur G, Sheehan Y, Badcock NA, Francis DA, Wang H, Kohnen S, Banales E, Anan
 
 Fiveash A, Thompson WF, Badcock NA, & McArthur G (2018). Syntactic processing in music and language: Effects of interrupting auditory streams with alternating timbres. International Journal of Psychophysiology, 129, 31-40. DOI:10.1016/j.ijpsycho.2018.05.003 [PDF](/pubs/Fiveash et al. - 2018 - Syntactic processing in music and language Effect.pdf)
 
-Barnes LJ, McArthur GM, Biedermann BA, de Lissa P, Polito V, & Badcock NA (2018). No meditation-related changes in the auditory N1 during first-time meditation. International Journal of Psychophysiology, 127, 26-37. https://doi.org/10.1016/j.ijpsycho.2018.03.003 (/pubs/Barnes et al. - 2018 - No meditation-related changes in the auditory N1 d.pdf)
+Barnes LJ, McArthur GM, Biedermann BA, de Lissa P, Polito V, & Badcock NA (2018). No meditation-related changes in the auditory N1 during first-time meditation. International Journal of Psychophysiology, 127, 26-37. https://doi.org/10.1016/j.ijpsycho.2018.03.003 [PDF](/pubs/Barnes et al. - 2018 - No meditation-related changes in the auditory N1 d.pdf)
 
 Litt R, Wang HC, Sailah J, Badcock NA, & Castles A (2018). Paired associated learning deficits in dyslexia: the contribution of phonological input and output processes. Quarterly Journal of Experimental Psychology. https://doi.org/10.1177/1747021818762669 [PDF](/pubs/Litt et al. - 2018 - Paired associate learning deficits in poor readers.pdf)
 
-Boyes ME, Tebbutt B, Preece KA, & Badcock NA (2018). Relationships between Reading Ability and Child Mental Health: Moderating Effects of Self-Esteem. Australian Psychologist. 53 (2), 125-133. DOI:10.1111/ap.12281 [PDF](/pubs/Boyes et al. - 2017 - Relationships between Reading Ability and Child Mental Health Moderating Effects of Self-Esteem.pdf)
+Boyes ME, Tebbutt B, Preece KA, & Badcock NA (2018). Relationships between Reading Ability and Child Mental Health: Moderating Effects of Self-Esteem. Australian Psychologist, 53 (2), 125-133. DOI:10.1111/ap.12281 [PDF](/pubs/Boyes et al. - 2017 - Relationships between Reading Ability and Child Mental Health Moderating Effects of Self-Esteem.pdf)
 
 ## 2017
 Kondyli D, Stathopoulou D, Badcock NA, & Papadatou-Pastou M (2017). Cerebral laterality for silent and written language generation in male and female right- and left-handers: A functional transcranial Doppler ultrasound study. Acta Neuropsychologia, 14 (4), 407-32. 10.5604/01.3001.0010.7480 [PDF](/pubs/Kondyli et al. - 2017 - Cerebral laterality for the generation of silent.pdf)
 
 Landes JK, Reid CL, Arns M, Badcock NA, Ros T, Enriquez-Geppert S, Bulsara MK, Brini S, Rabipour S, Mason M, Birbaumer N, Gouldthorp B, & Anderson M (2017). EEG neurofeedback for executive functions in children with neurodevelopmental challenges. In Cochrane Database of Systematic Reviews. John Wiley & Sons, Ltd. https://doi.org/10.1002/14651858.CD012890  [PDF](/pubs/Landes et al. - 2017 - EEG neurofeedback for executive functions in children.pdf)
 
-Badcock NA, Spooner R, Flitton A, Hofmann J, Kurylowicz L, Lavrencic L, Payne HM, Churches, OE, Kohler M, & Keage HAD (2017). What Box: a task for assessing language lateralization in young children. Laterality. 1-18. DOI:10.1080/1357650X.2017.1363773  [PDF](/pubs/Badcock et al. - 2018 - What Box A task for assessing language lateralization.pdf)
+Badcock NA, Spooner R, Flitton A, Hofmann J, Kurylowicz L, Lavrencic L, Payne HM, Churches, OE, Kohler M, & Keage HAD (2017). What Box: a task for assessing language lateralization in young children. Laterality, 1-18. DOI:10.1080/1357650X.2017.1363773  [PDF](/pubs/Badcock et al. - 2018 - What Box A task for assessing language lateralization.pdf)
 
 Schubert T, Badcock NA, & Kohnen S. (2017). Development of children’s identity and position processing for letter, digit, and symbol strings: A cross-sectional study of the primary school years. Journal of Experimental Child Psychology, 162: 163-180. DOI:10.1016/j.jecp.2017.05.008  [PDF](/pubs/Schubert et al. - 2017 - Development of children’s identity and position.pdf)
 
