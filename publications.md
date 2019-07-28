@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Publications
-subtitle: A list of research that I've been involved in that's been accepted for publication
+subtitle: Electronic versions are provided as a professional courtesy to ensure dissemination of academic work for individual, noncommercial purposes. Copyright and all rights therein reside with the respective copyright holders, as stated within each paper. These files may not be reposted without permission.
 use-site-title: true
 ---
 ## 2018
-1.	McArthur G, Sheehan Y, Badcock NA, Francis DA, Wang H, Kohnen S, Banales E, Anandakumar T, Marinus E, Castles A. Phonics training for English-speaking poor readers. Cochrane Database of Systematic Reviews 2018, Issue 11. Art. No.: CD009115. DOI: 10.1002/14651858.CD009115.pub3
+1.	McArthur G, Sheehan Y, Badcock NA, Francis DA, Wang H, Kohnen S, Banales E, Anandakumar T, Marinus E, Castles A. Phonics training for English-speaking poor readers. Cochrane Database of Systematic Reviews 2018, Issue 11. Art. No.: CD009115. [DOI:10.1002/14651858.CD009115.pub3](10.1002/14651858.CD009115.pub3)
 
-2.	Fiveash A, Thompson WF, Badcock NA, & McArthur G (2018). Syntactic processing in music and language: Effects of interrupting auditory streams with alternating timbres. International Journal of Psychophysiology, 129, 31-40. 10.1016/j.ijpsycho.2018.05.003
+2.	Fiveash A, Thompson WF, Badcock NA, & McArthur G (2018). Syntactic processing in music and language: Effects of interrupting auditory streams with alternating timbres. International Journal of Psychophysiology, 129, 31-40. DOI:10.1016/j.ijpsycho.2018.05.003
 
 3.	Barnes LJ, McArthur GM, Biedermann BA, de Lissa P, Polito V, & Badcock NA (2018). No meditation-related changes in the auditory N1 during first-time meditation. International Journal of Psychophysiology, 127, 26-37. https://doi.org/10.1016/j.ijpsycho.2018.03.003
 
