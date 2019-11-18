@@ -2,7 +2,7 @@
 
 ## About me
 
-I am a developmental cognitive neuropsychologist interested in how perceptual and attentional capacities underpin complex functioning such as how cognitive control relates to reading abilities. My research focuses on learning difficulties and exceptional development with the aim of contributing to scientific understanding as well as translation for education and intervention.
+I am a developmental cognitive neuroscientist interested in how perceptual and attentional capacities underpin complex functioning such as how cognitive control relates to reading abilities. My research focuses on learning difficulties and exceptional development with the aim of contributing to scientific understanding as well as translation for education and intervention.
 Through understanding everyday behaviours like reading, I investigate the basic workings of the mind. I conduct these enquiries using behavioural psychophysics and neuroimaging techniques (e.g., electroencephalography, [functional transcranial Doppler ultrasound](https://www.jove.com/video/2161/assessment-cerebral-lateralization-children-using-functional), and functional magnetic resonance imaging).
 
 ### My history
