@@ -4,9 +4,11 @@ title: Publications
 subtitle: Electronic versions are provided as a professional courtesy to ensure dissemination of academic work for individual, noncommercial purposes. Copyright and all rights therein reside with the respective copyright holders, as stated within each paper. These files may not be reposted without permission.
 use-site-title: true
 ---
+## 2020
+Gutteridge DS, Saredakis D, Badcock NA, Collins-Praino LE, & Keage HAD. (2020). Cerebrovascular function during cognition in Parkinson’s disease: A functional transcranial Doppler sonography study. Journal of the Neurological Sciences, 408, 116578. https://doi.org/10.1016/j.jns.2019.116578 [PDF](/pubs/Gutteridge et al. - 2020 - Cerebrovascular function during cognition in Parki.pdf)
+
 ## 2019
 Boyes ME, Leitão S, Claessen M, Badcock NA, & Nayton M. (in press). Correlates of externalising and internalising problems in children with dyslexia: An analysis of data from clinical casefiles. Australian Psychologist. https://doi.org/10.1111/ap.12409 [PDF](/pubs/Boyes et al. - Correlates of externalising and internalising prob.pdf)
-
 
 ## 2018
 McArthur G, Sheehan Y, Badcock NA, Francis DA, Wang H, Kohnen S, Banales E, Anandakumar T, Marinus E, Castles A. Phonics training for English-speaking poor readers. Cochrane Database of Systematic Reviews 2018, Issue 11. Art. No.: CD009115. DOI:10.1002/14651858.CD009115.pub3 [PDF](/pubs/McArthur et al. - 2018 - Phonics training for English‐speaking poor readers.pdf)
