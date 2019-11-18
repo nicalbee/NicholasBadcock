@@ -4,6 +4,9 @@ title: Grants
 #subtitle: I've been involved with teams who've been awarded money to conduct research
 use-site-title: true
 ---
+## 2019
+Hellenic Foundation for Research and Innovation (Greece). By (writing) hand: Investigating the cerebral laterality during writing using functional transcranial Doppler ultrasound and the genetic relationship of laterality with special learning difficulties (dyslexia, dysgraphia). Papadatou-Pastou M, Paracchini S, & Badcock NA. ($258,580)
+
 ## 2018
 Coventry University, Cross-Centre International and Interdisciplinary Project (2018), Character strength, creativity skills and resilience within the dyslexic population in England, Hong Kong, and Australia. Kwok R, Carroll J, Johnson H, Leddington Wright S, Tong S, Badcock NA, Martin A, Kim K-H. ($17,673).
 
