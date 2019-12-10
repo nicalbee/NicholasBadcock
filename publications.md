@@ -52,7 +52,7 @@ de Lissa P, Sorenson S, Badcock NA, Thie J, & McArthur G (2015). Measuring the f
 
 Yau SH, Brock J, Badcock NA, & McArthur G (2015). Case Study: Auditory brain responses in a minimally verbal child with autism and cerebral palsy. Frontiers in Neuroscience: Systems Biology, 9, 208. DOI:10.3389/fnins.2015.00208 [PDF](/pubs/Yau et al. - 2015 - Case study auditory brain responses in a minimally verbal.pdf)
 
-Keage HAD, Kurylowicz L, Lavrencic LM, Churches OF, Flitton A, Hofmann J, Kohler M, & Badcock NA (2015). Cerebrovascular function associated with fluid not crystallised abilities in older adults: a transcranial Doppler study. Psychology and Ageing, 30(3), 613-623. DOI:http://dx.doi.org/10.1037/pag0000026 [PDF](/pubs/Keage et al. - 2015 - Cerebrovascular function associated with fluid.pdf)
+Keage HAD, Kurylowicz L, Lavrencic LM, Churches OF, Flitton A, Hofmann J, Kohler M, & Badcock NA (2015). Cerebrovascular function associated with fluid not crystallised abilities in older adults: a transcranial Doppler study. Psychology and Ageing, 30(3), 613-623. DOI:http://dx.doi.org/10.1037/pag0000026 [PDF](/pubs/Keage et al. - 2015 - Cerebrovascular function associated with fluid post-print.pdf)
 
 Badcock NA, Preece KA, de Wit B, Glenn K, Fieder N, Thie J, & McArthur (2015). Validation of the Emotiv EPOC EEG system for research quality auditory event-related potentials in children. PeerJ, 3:e907 https://dx.doi.org/10.7717/peerj.907 [PDF](/pubs/Badcock et al. - 2015 - Validation of the Emotiv EPOC EEG system for research.pdf)
 
