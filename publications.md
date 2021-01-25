@@ -4,7 +4,27 @@ title: Publications
 subtitle: Electronic versions are provided as a professional courtesy to ensure dissemination of academic work for individual, noncommercial purposes. Copyright and all rights therein reside with the respective copyright holders, as stated within each paper. These files may not be reposted without permission.
 use-site-title: true
 ---
+## 2021
+Wehrman J, de Lissa P, Sorensen S, & Badcock NA (in press). EPOC outside the shield: comparing the performance of a consumer-grade EEG device in shielded and unshielded environments. Biomedical Physics & Engineering Express.
+
+Boyes M, Leitao S, Claessen M, Dzidic P, Badcock NA, & Nayton M (in press). Piloting ‘Clever Kids’: A randomised-controlled trial assessing feasibility, efficacy, and acceptability of a socioemotional wellbeing programme for children with dyslexia. British Journal of Educational Psychology. [https://doi.org/10.1111/bjep.12401](https://doi.org/10.1111/bjep.12401)
+
+Williams NS, McArthur GM, & Badcock NA (accepted). It’s all about time: Precision and accuracy of Emotiv event-marking for ERP research. PeerJ
+
+---
 ## 2020
+Soares S & Badcock NA. (2020). Does reading anxiety impact on academic achievement at university? Leaning Difficulties Australia Bulletin, 52(2), 29-31. [https://www.ldaustralia.org/lda-publications.html](https://www.ldaustralia.org/lda-publications.html)
+
+Boyes ME, Leitão S, Claessen M, Badcock N, & Nayton M. (2020). Understanding links between reading difficulties, self-esteem, and child mental health. Learning Difficulties Australia Bulletin, 52(2), 12-17. [https://www.ldaustralia.org/lda-publications.html](https://www.ldaustralia.org/lda-publications.html)
+
+Williams NS, McArthur GM, de Wit B, Ibrahim G, & Badcock NA. (2020). A validation of Emotiv EPOC Flex saline for EEG and ERP research. PeerJ, 8, e9713. [https://doi.org/10.7717/peerj.9713](https://doi.org/10.7717/peerj.9713)
+
+Petit S, Badcock NA, Grootswagers T, & Woolgar A. (2020). Unconstrained multivariate EEG decoding can help detect lexical-semantic processing in individual children. Scientific Reports, 10(1), 10849. [https://doi.org/10.1038/s41598-020-67407-6](https://doi.org/10.1038/s41598-020-67407-6)
+
+Petit S, Badcock NA, & Woolgar A. (2020). Finding hidden treasures: A child-friendly neural test of task-following in individuals using functional Transcranial Doppler ultrasound. Neuropsychologia, 146, 107515. [https://doi.org/10.1016/j.neuropsychologia.2020.107515](https://doi.org/10.1016/j.neuropsychologia.2020.107515)
+
+Petit S, Badcock NA, Grootswagers T, Rich AN, Brock J, Nickels L, Moerel D, Dermody N, Yau S, Schmidt E, & Woolgar A. (2020). Toward an Individualized Neural Assessment of Receptive Language in Children. Journal of Speech, Language, and Hearing Research, 63(7), 2361–2385. [https://doi.org/10.1044/2020_JSLHR-19-00313](https://doi.org/10.1044/2020_JSLHR-19-00313)
+
 McArthur GM, Filardi N, Francis DA, Boyes ME, & Badcock NA (2020). Self-concept in poor readers: A systematic review and meta-analysis. PeerJ, 8, e8772. [https://doi.org/10.7717/peerj.8772](https://doi.org/10.7717/peerj.8772) [PDF](/pubs/McArthur et al. - 2020 - Self-concept in poor readers a systematic review.pdf)
 
 Claessen M, Dzidic P, Boyes M, Badcock N, Nayton M, & Leitao S (2020). Educators’ perceptions of the impact of reading difficulties for young people. Australian Journal of Learning Difficulties, 1–14. [https://doi.org/10.1080/19404158.2020.1734952](https://doi.org/10.1080/19404158.2020.1734952) [PDF](/pubs/Claessen et al. - 2020 - Educators’ perceptions of the impact of reading.pdf)
