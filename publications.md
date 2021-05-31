@@ -5,11 +5,20 @@ subtitle: Electronic versions are provided as a professional courtesy to ensure 
 use-site-title: true
 ---
 ## 2021
+McArthur GM, Badcock NA, Castles A, & Robidoux S. (accepted, 30 April 2021). Tracking the relations between children's reading and emotional health across time: Evidence from four large longitudinal studies. Ready Research Quarterly
+
+Shulver K & Badcock NA (accepted, 13 April 2021). Chasing the Anchor: A Systematic Review and Meta-analysis of Perceptual Anchoring Deficits in Developmental Dyslexia
+Journal of Speech, Language, and Hearing Research
+
+Bentvelzen AC, Kessels RPC, Badcock NA, & Savage G. (accepted, 25 May 2021). The impact of right temporal lobe epilepsy on nonverbal memory: Meta-regression of stimulus- and task-related moderators. Neuropsychology Review
+
+Barnes LJ, Petit S, Badcock NA, Whyte C, & Woolgar A. (in press). Word detection in individual subjects is difficult to probe with fast periodic visual stimulation. Frontiers in Neuroscience.
+
 Wehrman J, de Lissa P, Sorensen S, & Badcock NA (in press). EPOC outside the shield: comparing the performance of a consumer-grade EEG device in shielded and unshielded environments. Biomedical Physics & Engineering Express.
 
 Boyes M, Leitao S, Claessen M, Dzidic P, Badcock NA, & Nayton M (in press). Piloting ‘Clever Kids’: A randomised-controlled trial assessing feasibility, efficacy, and acceptability of a socioemotional wellbeing programme for children with dyslexia. British Journal of Educational Psychology. [https://doi.org/10.1111/bjep.12401](https://doi.org/10.1111/bjep.12401)
 
-Williams NS, McArthur GM, & Badcock NA (accepted). It’s all about time: Precision and accuracy of Emotiv event-marking for ERP research. PeerJ
+Williams NS, McArthur GM, & Badcock NA (2021). It’s all about time: Precision and accuracy of Emotiv event-marking for ERP research. PeerJ, 9:e10700. [https://doi.org/10.7717/peerj.10700] (https://doi.org/10.7717/peerj.10700)
 
 ---
 ## 2020
