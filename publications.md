@@ -17,7 +17,7 @@ Barnes LJ, Petit S, Badcock NA, Whyte C, & Woolgar A. (2021). Word detection in 
 
 Wehrman J, de Lissa P, Sorensen S, & Badcock NA (2021). EPOC outside the shield: comparing the performance of a consumer-grade EEG device in shielded and unshielded environments. Biomedical Physics & Engineering Express, 7 (2). [https://doi.org/10.1088/2057-1976/abdf37](https://doi.org/10.1088/2057-1976/abdf37)
 
-Williams NS, McArthur GM, & Badcock NA (2021). It’s all about time: Precision and accuracy of Emotiv event-marking for ERP research. PeerJ, 9:e10700. [https://doi.org/10.7717/peerj.10700] (https://doi.org/10.7717/peerj.10700)
+Williams NS, McArthur GM, & Badcock NA (2021). It’s all about time: Precision and accuracy of Emotiv event-marking for ERP research. PeerJ, 9:e10700. [https://doi.org/10.7717/peerj.10700](https://doi.org/10.7717/peerj.10700)
 
 ---
 ## 2020
