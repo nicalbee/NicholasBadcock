@@ -4,13 +4,33 @@ title: Publications
 subtitle: Electronic versions are provided as a professional courtesy to ensure dissemination of academic work for individual, noncommercial purposes. Copyright and all rights therein reside with the respective copyright holders, as stated within each paper. These files may not be reposted without permission.
 use-site-title: true
 ---
-## Accepted
-Shulver K & Badcock NA (accepted, 13 April 2021). Chasing the Anchor: A Systematic Review and Meta-analysis of Perceptual Anchoring Deficits in Developmental Dyslexia.
-Journal of Speech, Language, and Hearing Research
+## 2023
+Williams NS, King W, Mackellar G, Randeniya R, McCormick A, & Badcock NA (2023). Crowdsourced EEG experiments: A proof of concept for remote EEG acquisition using EmotivPRO Builder and EmotivLABS. Heliyon, 9(8), e18433. [https://doi.org/10.1016/j.heliyon.2023.e18433](https://doi.org/10.1016/j.heliyon.2023.e18433)
 
-Bentvelzen AC, Kessels RPC, Badcock NA, & Savage G. (accepted, 25 May 2021). The impact of right temporal lobe epilepsy on nonverbal memory: Meta-regression of stimulus- and task-related moderators. Neuropsychology Review
+Soares, S., Boyes, M. E., Parrila, R., & Badcock, N. A. (2023). Does reading anxiety impact on academic achievement in higher education students? Dyslexia, dys.1738. [https://doi.org/10.1002/dys.1738](https://doi.org/10.1002/dys.1738)
+
+Vingerhoets G. Verhelst H, Gerrits R, Badcock NA, et al. (Accepted 1 April 2023). Laterality indices consensus initiative (LICI): A Delphi expert survey report on recommendations to record, assess, and report asymmetry in human behavioural and brain research. Laterality. [10.1080/1357650X.2023.2199963](10.1080/1357650X.2023.2199963) (n = 15 authors)
+
+Terry J, … Badcock NA, … Field AP. (March 03, 2023). Data from an International Multi-Centre Study of Statistics and Mathematics Anxieties and Related Variables in University Students (the SMARVUS Dataset). Journal of Open Psychology Data, 11 (8), 1-25. [https://doi.org/10.5334/jopd.80](https://doi.org/10.5334/jopd.80) (n = 145 authors)
+
+## 2022
+Parker AJ, Woodhead ZVJ, Carey DP, Groen MA, Gutierrez-Sigut E, Hodgson JC, Hudson J, Karlsson EM, MacSweeney M, Payne HM, Simpson N, Thompson PA, Watkins KE, Egan C, Grant JH, Harte S, Hudson BT, Sablik M, Badcock NA, & Bishop DVM (2022). Inconsistent language lateralisation—Testing the dissociable language laterality hypothesis using behaviour and lateralised cerebral blood flow. Cortex, 154, 105-134. [https://doi.org/10.1016/j.cortex.2022.05.013](https://doi.org/10.1016/j.cortex.2022.05.013)
+
+5Papadatou-Pastou M, Sampanis P, Koumzis I, Stefanopoulou S, Sousani D, Tsigkou A, & Badcock NA (2022). Cerebral laterality for writing in right- and left- handers: A functional transcranial Doppler ultrasound study. European Journal of Neuroscience, 56 (2), 3921-2937. [https://doi.org/10.1111/ejn.15723](https://doi.org/10.1111/ejn.15723)
+
+Stuart N, Bothe E, Palermo R, Whitehouse A, & Badcock NA (2022). Eye gaze in autism spectrum disorder: A review of neural evidence for the eye avoidance hypothesis. Journal of Autism and Developmental Disorders. [https://doi.org/10.1007/s10803-022-05443-z](https://doi.org/10.1007/s10803-022-05443-z )
+
+Quin-Conroy J, Chen Y, Bayliss D, & Badcock NA (2022). Magic Hats and Teddy Bear Picnics: Language and Visuospatial Lateralisation Tasks for Children. Laterality. [https://doi.org/10.1080/1357650X.2021.2020808](https://doi.org/10.1080/1357650X.2021.2020808)
+Bentvelzen AC, Kessels RPC, Badcock NA, & Savage G. (2022). The impact of right temporal lobe epilepsy on nonverbal memory: Meta-regression of stimulus- and task-related moderators. Neuropsychology Review. 32 (3), 537-557. [10.1007/s11065-021-09514-3](10.1007/s11065-021-09514-3)
 
 ## 2021
+Tari B, Shirzad M, Badcock N A, Belfry G, & Heath M (2021). ‘Delaying’ a saccade: Preparatory phase cortical hemodynamics evince the neural cost of response inhibition.  Brain and Cognition, 154. [https://doi.org/10.1016/j.bandc.2021.105808](https://doi.org/10.1016/j.bandc.2021.105808)
+
+Ejova A, Badcock NA, McKerchar A, Beath AP, Swift C, Talley NJ, Holtman G, Walker MM, & Jones MP. (2021). Electroencephalographic evidence of unconscious and conscious attentional bias in people with functional gastrointestinal disorders: A pilot study. International Journal of Psychophysiology. 170, 30-42. [10.1016/j.ijpsycho.2021.09.006](10.1016/j.ijpsycho.2021.09.006)
+
+Shulver K & Badcock NA (2021). Chasing the Anchor: A Systematic Review and Meta-analysis of Perceptual Anchoring Deficits in Developmental Dyslexia. 
+Journal of Speech, Language, and Hearing Research. 64(8), 3289-3302. [https://doi.org/10.1044/2021_JSLHR-20-00533] (https://doi.org/10.1044/2021_JSLHR-20-00533)
+
 McArthur GM, Badcock NA, Castles A, & Robidoux S. (2021). Tracking the relations between children's reading and emotional health across time: Evidence from four large longitudinal studies. Reading Research Quarterly. [https://doi.org/10.1002/rrq.426](https://doi.org/10.1002/rrq.426)
 
 Barnes LJ, Petit S, Badcock NA, Whyte C, & Woolgar A. (2021). Word detection in individual subjects is difficult to probe with fast periodic visual stimulation. Frontiers in Neuroscience, 15. [https://doi.org/10.3389/fnins.2021.602798](https://doi.org/10.3389/fnins.2021.602798)
