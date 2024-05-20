@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resources
-subtitle: Some ideas others might find useful.
+subtitle: Ideas others might find useful.
 use-site-title: true
 ---
 ## Somewhat Organised
