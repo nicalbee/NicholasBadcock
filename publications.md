@@ -5,16 +5,19 @@ subtitle: Electronic versions are provided as a professional courtesy to ensure 
 use-site-title: true
 ---
 ## Accepted
-Papadopoulou A-K, Samsouris C, Vlachos F, Badcock NA, Phylactou P, & Papadatou-Pastou M. (2023). Exploring cerebral laterality of writing and the relationship to handedness: A functional transcranial Doppler ultrasound investigation. Laterality. [https://doi.org/10.1080/1357650X.2023.2284407](https://doi.org/10.1080/1357650X.2023.2284407)
-
-Quin-Conroy J, Daniell S, Bayliss D, & Badcock NA (2023). Patterns of Language and Visuospatial Lateralisation and Cognitive Ability: A Systematic Review. Laterality. [https://doi.org/10.1080/1357650X.2023.2263199](https://doi.org/10.1080/1357650X.2023.2263199)
-
-Irani Z, Sheridan A, Badcock NA, & Fox A. (2023). Assessing non-right-handedness and atypical cerebral lateralisation as predictors of paediatric mental health difficulties, European Journal of Neuroscience. [https://doi.org/10.1111/ejn.16162](https://doi.org/10.1111/ejn.16162)
 
 ## 2024
+Quin-Conroy JE, Thompson PA, Bayliss DM, & Badcock NA. (2024). Generalized models for estimating cerebral lateralisation of young children using functional transcranial Doppler ultrasound. Human Brain Mapping, 45(13), e70012. [https://doi.org/10.1002/hbm.70012](https://doi.org/10.1002/hbm.70012)
+
 Sabio J, Williams NS, McArthur G, & Badcock NA (2024). A scoping review on the use of consumer-grade EEG devices for research. PLOS ONE, 19(3), e0291186. [https://doi.org/10.1371/journal.pone.0291186](https://doi.org/10.1371/journal.pone.0291186)
 
 ## 2023
+Quin-Conroy J, Daniell S, Bayliss D, & Badcock NA (2023). Patterns of Language and Visuospatial Lateralisation and Cognitive Ability: A Systematic Review. Laterality, 29(1), 63-96. [https://doi.org/10.1080/1357650X.2023.2263199](https://doi.org/10.1080/1357650X.2023.2263199)
+
+Papadopoulou A-K, Samsouris C, Vlachos F, Badcock NA, Phylactou P, & Papadatou-Pastou M. (2023). Exploring cerebral laterality of writing and the relationship to handedness: A functional transcranial Doppler ultrasound investigation. Laterality, 29(1), 117–150.[https://doi.org/10.1080/1357650X.2023.2284407](https://doi.org/10.1080/1357650X.2023.2284407)
+
+Irani Z, Sheridan A, Badcock NA, & Fox A. (2023). Assessing non-right-handedness and atypical cerebral lateralisation as predictors of paediatric mental health difficulties, European Journal of Neuroscience, 58(10), 4195–4210. [https://doi.org/10.1111/ejn.16162](https://doi.org/10.1111/ejn.16162)
+
 Williams NS, King W, Mackellar G, Randeniya R, McCormick A, & Badcock NA (2023). Crowdsourced EEG experiments: A proof of concept for remote EEG acquisition using EmotivPRO Builder and EmotivLABS. Heliyon, 9(8), e18433. [https://doi.org/10.1016/j.heliyon.2023.e18433](https://doi.org/10.1016/j.heliyon.2023.e18433)
 
 Soares, S., Boyes, M. E., Parrila, R., & Badcock, N. A. (2023). Does reading anxiety impact on academic achievement in higher education students? Dyslexia, dys.1738. [https://doi.org/10.1002/dys.1738](https://doi.org/10.1002/dys.1738)
